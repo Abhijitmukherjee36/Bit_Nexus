@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Bit_Nexus/static/css/main.92d8041f.css",
-    "main.js": "/Bit_Nexus/static/js/main.0f2050bc.js",
+    "main.js": "/Bit_Nexus/static/js/main.4baf275e.js",
     "index.html": "/Bit_Nexus/index.html",
     "main.92d8041f.css.map": "/Bit_Nexus/static/css/main.92d8041f.css.map",
-    "main.0f2050bc.js.map": "/Bit_Nexus/static/js/main.0f2050bc.js.map"
+    "main.4baf275e.js.map": "/Bit_Nexus/static/js/main.4baf275e.js.map"
   },
   "entrypoints": [
     "static/css/main.92d8041f.css",
-    "static/js/main.0f2050bc.js"
+    "static/js/main.4baf275e.js"
   ]
 }
