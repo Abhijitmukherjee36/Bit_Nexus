@@ -9,15 +9,16 @@ const useStyles = makeStyles(() => ({
   App: {
     backgroundColor: "#14161a",
     color: "white",
-    minHeight: "100vh"
-  }
+    minHeight: "100vh",
+  },
 }));
 
 function App() {
   const Classes = useStyles();
 
   return (
-    <BrowserRouter>
+    // ✅ Add basename for GitHub Pages
+    <BrowserRouter basename="/Bit_Nexus">
       <div className={Classes.App}>
         <Header />
         <Routes>
