@@ -34,13 +34,22 @@ Check out Bit_Nexus live here: [Live Demo Link](https://abhijitmukherjee36.githu
 ## 📸 Preview
 
  
-<p align="center">
-  <img src="public/assets/homepage.png" width="700" alt="Bit_Nexus Home Preview"/>
-</p>
+---
+
+## 📸 Preview
+
+### 🏠 Home Page
 
 <p align="center">
-  <img src="public/assets/graph.png" width="700" alt="Bit_Nexus Graph Preview"/>
+  <img src="assets/homepage.png" width="700" alt="Bit_Nexus Home Preview"/>
 </p>
+
+### 💰 Coin Info
+
+<p align="center">
+  <img src="assets/graph.png" width="700" alt="Bit_Nexus Coin Info Preview"/>
+</p>
+
 
 ---
 
