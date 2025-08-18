@@ -28,19 +28,18 @@ Bit_Nexus lets you explore real-time cryptocurrency data, interactive charts, an
 
 ## 🌐 Live Demo
 
-Check out Bit_Nexus live here: [Live Demo Link]([https://your-live-demo-link.com](https://abhijitmukherjee36.github.io/Bit_Nexus))
+Check out Bit_Nexus live here: [Live Demo Link](https://abhijitmukherjee36.github.io/Bit_Nexus)
 
-> Replace the URL with your deployed app link (Vercel, Netlify, or GitHub Pages)
 
 ## 📸 Preview
 
-> Replace below with screenshots/gifs of your app  
+ 
 <p align="center">
-  <img src="assets/homepage.png" width="700" alt="Bit_Nexus Home Preview"/>
+  <img src="public/assets/homepage.png" width="700" alt="Bit_Nexus Home Preview"/>
 </p>
 
 <p align="center">
-  <img src="assets/graph.png" width="700" alt="Bit_Nexus Graph Preview"/>
+  <img src="public/assets/graph.png" width="700" alt="Bit_Nexus Graph Preview"/>
 </p>
 
 ---
